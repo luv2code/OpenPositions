@@ -1,0 +1,15 @@
+6mos in TX, then Tokyo Japan - Software Engineer at Tradestation Technologies
+
+Scrum
+Continuous Integration
+CSharp/C#
+Javascript/JS
+MVC
+MVVM
+T-SQL
+                                                                                
+We are looking for a Software Engineer with at least 5 years of experience to 
+help us maintain, modernize, and extend a back-office Javascript + .NET 4.0 MVC
+/ ASP application. This job requires that the candidate be fluent in Japanese, 
+live in or near Tokyo, Japan, and be willing to temporarily move to 
+Richardson, Texas, US for an extended period of time (6 months).

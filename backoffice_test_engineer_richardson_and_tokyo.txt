@@ -1,0 +1,18 @@
+1 Position in Richardson, TX
+1 Position in Tokyo, Japan
+
+Test Engineer at Tradestation Technologies
+
+web app debug tools - (firebug, dragonfly, fiddler or the like)
+C#
+SQL
+automated testing tools (watir or watin, specflow, cucumber, selenium)
+some web application programming experience
+scrum
+continuous build tools
+source code management
+Visual Studio and TFS
+
+We are hiring a test engineer to create a unit testing and BDD solutions and 
+create and manage tests for a web application. Also, you would provide guidance 
+to the members of the team on TDD and Designing for Testability.
