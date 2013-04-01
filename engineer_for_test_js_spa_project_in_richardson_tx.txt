@@ -1,6 +1,6 @@
 Richardson TX - Engineer For Test at Tradestation Technologies
 
-We're looking for someone to come in work our application over. The ideal candidate will have a passion for quality software, and will be intimately familiar with browser applications. They will be responsible for manual testing, automated testing, maintaining and improving the CI process, and helping out with development when needed.
+We're looking for someone to come in and work our application over. The ideal candidate will have a passion for quality software, and will be intimately familiar with browser applications. They will be responsible for manual testing, automated testing, maintaining and improving the CI process, and helping out with development when needed.
 
 This position is on a scrum team in a team room.
 
